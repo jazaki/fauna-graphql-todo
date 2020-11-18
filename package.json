@@ -6,6 +6,7 @@
   "author": "Junaid Arham <jarham@chegg.com>",
   "license": "MIT",
   "scripts": {
+    "build": "gatsby build",
     "develop": "gatsby develop"
   },
   "dependencies": {
